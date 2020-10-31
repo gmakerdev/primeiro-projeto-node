@@ -1,5 +1,3 @@
-import { startOfHour } from 'date-fns';
-
 class AppError {
   public readonly message: string;
 
